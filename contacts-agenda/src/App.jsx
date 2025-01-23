@@ -28,7 +28,7 @@ export default function App() {
         <img
           className="avatar"
           src={avatar}
-          alt="User profile picture of Dona Paulsen"
+          alt="A profile picture of Dona Paulsen"
         />
         <div className="info">
           <button
