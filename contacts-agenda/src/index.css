@@ -38,14 +38,14 @@ main {
   padding: 10px;
 }
 
-.card .favorite {
+.card .star {
   width: 25px;
   cursor: pointer;
 }
 
 .card .contact {
   font-size: 0.75rem;
-  color: gray;
+  color: rgb(88, 87, 87);
   margin-block: 7px;
 }
 
