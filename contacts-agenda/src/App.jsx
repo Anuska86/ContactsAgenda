@@ -28,7 +28,7 @@ export default function App() {
           alt="A profile picture of Dona Paulsen"
         />
         <div className="info">
-          <Star isFilled={contact.isFavorite} />
+          <Star isFilled={contact.isFavorite} handleClick={toggleFavorite} />
           <h2 className="name">
             {contact.firstName} {contact.lastName}
           </h2>

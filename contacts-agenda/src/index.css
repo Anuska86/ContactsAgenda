@@ -17,10 +17,10 @@ main {
 
 .card {
   background-color: #F4EDD3;
-  width: 200px;
+  width: 250px;
   border: 1px solid lightgray;
   border-radius: 10px;
-  height: 350px;
+  height: 400px;
 }
 
 .card .avatar {
